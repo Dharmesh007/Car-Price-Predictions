@@ -23,6 +23,6 @@ Data understanding:
 - Cars sold by Individual tend to get less Selling Price when sold by Dealers.
 Accuracy of the model = 96%
 
-view the detailed analysis here in the below mentioned link: https://github.com/Dharmesh007/Car-price-prediction/blob/main/carprediction.ipynb
+view the detailed analysis here in the below mentioned link: https://github.com/Dharmesh007/Car-Price-Predictions/blob/main/Car-Price-suggestor.ipynb
 
 Web App(Deployed in Heroku): https://carspricesuggestor.herokuapp.com/

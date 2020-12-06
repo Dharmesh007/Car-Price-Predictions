@@ -16,12 +16,12 @@ Data understanding:
 
 ## Conclusions:
 
-Present price of a car plays an important role in predicting Selling Price, One increases the other gradually increases.
-Car age is effecting negatively as older the car lesser the Selling Price.
-Selling Price of cars with Fuel type Diesel is higher.
-Car of Manual type is of less priced whereas of Automatic type is high.
-Cars sold by Individual tend to get less Selling Price when sold by Dealers.
-Accuracy = 96%
+- Present price of a car plays an important role in predicting Selling Price, One increases the other gradually increases.
+- Car age is effecting negatively as older the car lesser the Selling Price.
+- Selling Price of cars with Fuel type Diesel is higher.
+- Car of Manual type is of less priced whereas of Automatic type is high.
+- Cars sold by Individual tend to get less Selling Price when sold by Dealers.
+Accuracy of the model = 96%
 
 view the detailed analysis here in the below mentioned link: https://github.com/Dharmesh007/Car-price-prediction/blob/main/carprediction.ipynb
 

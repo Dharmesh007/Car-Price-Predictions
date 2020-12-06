@@ -21,6 +21,7 @@ jedi==0.17.2
 Jinja2==2.11.2
 joblib==0.17.0
 jsonschema==3.2.0
+jsonify
 jupyter==1.0.0
 jupyter-client==6.1.7
 jupyter-console==6.2.0

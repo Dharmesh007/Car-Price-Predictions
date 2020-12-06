@@ -6,13 +6,15 @@ CarDekho.com is India's leading car search venture that helps users buy cars tha
 
 This project aims to solve the problem of predicting the price of a used car, using supervised machine learning techniques. It is clearly a regression problem and predictions is carried out on dataset of used car sales taken from kaggle.
 
-Data understanding
-EDA
-Model Building
-Hyperparameter Tuning
-Validation
-Deployment
-Conclusions:
+Data understanding:
+
+1) EDA
+2) Model Building
+3) Hyperparameter Tuning
+4) Validation
+5) Deployment
+
+## Conclusions:
 
 Present price of a car plays an important role in predicting Selling Price, One increases the other gradually increases.
 Car age is effecting negatively as older the car lesser the Selling Price.
